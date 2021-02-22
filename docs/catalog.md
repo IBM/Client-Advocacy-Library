@@ -95,6 +95,7 @@ aka **Data & AI**
 
 1. [Cluster Security with Virtual Private Cloud (VPC) Gen2](https://ibm.github.io/kubernetes-networking/vpcgen2/) (master (roks), v2.0.0 (iks) (2021-01-20))
 2. Securing Routes on OpenShift (**coming soon**)
+3. Secure Config Management with Vault (IBM Secrets Manager) (**coming soon**)
 
 ## Automate 
 
