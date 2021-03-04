@@ -20,6 +20,7 @@ aka **Data & AI**
 ## Cloud Native
 
 ### (AppMod1) Application Modernization 1
+(last updated: 2021-03-01)
 
 **version 0.1.0**
 
@@ -33,6 +34,7 @@ aka **Data & AI**
 8. (45mins) [Jenkins 101](https://ibm.github.io/jenkins101/) (master, no release)
 
 ### (AppMod2) Application Modernization 2
+(last updated: 2021-03-01)
 
 **version 0.1.0**
 
@@ -46,6 +48,7 @@ aka **Data & AI**
 8. (90mins) [Kubernetes Storage 201: Cloud Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/) (master, no release)
 
 ### (KubeStor1) Kubernetes Persistent Storage 1
+(last updated: 2021-03-01)
 
 [Kubernetes Persistent Storage](https://ibm.github.io/kubernetes-storage) (master, no release)
 
@@ -67,6 +70,7 @@ aka **Data & AI**
 ## DevOps
 
 ### (DevOps1) DevOps 101
+(last updated: 2021-03-01)
 
 **version 0.1.0**
 
@@ -83,6 +87,9 @@ aka **Data & AI**
 ## Secure
 
 ### (KubeSec1) Kubernetes Security 1
+(last updated: 2021-03-01)
+
+**version 0.1.0**
 
 1. (60mins) [Static Application Security Testing (SAST) with SonarQube Vulnerability Scanning](https://ibm.github.io/sonarqube/)
 2. (75mins) [Kubernetes Networking 101](https://ibm.github.io/kubernetes-networking/services/) (master (roks), v2.0.0 (2021-01-20)(iks))
@@ -92,6 +99,9 @@ aka **Data & AI**
 6. (tbd) API Security and Lifecycle Management with API Connect
 
 ### (KubeSec2) Kubernetes Security 2
+(last updated: 2021-03-01)
+
+**version 0.1.0**
 
 1. (90mins) [Cluster Security with Virtual Private Cloud (VPC) Gen2](https://ibm.github.io/kubernetes-networking/vpcgen2/) (master (roks), v2.0.0 (iks) (2021-01-20))
 2. (60 mins) Securing Routes on OpenShift (**coming soon**)
@@ -99,6 +109,9 @@ aka **Data & AI**
 4. (tbd) Container Runtime Security Monitoring with Sysdig Falco (**tbd**)
 
 ### (CP4Sec1) Cloud Pak for Security 1
+(last updated: 2021-03-01)
+
+**version 0.1.0**
 
 1. (tbd) Get Started with Cloud Pak for Security (CP4S) (**tbd**)
 2. (tbd) STIX Shifter 101, Create a Connector (**coming soon**)
