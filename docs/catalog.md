@@ -7,15 +7,42 @@ aka **Data & AI**
 (CP4Data)
 
 1. [Python and Analytics](https://ibm.github.io/python-and-analytics/), current version: 
-2. Credit Risk Workshop:
+    * Python3
+    * work with dataframes
+    * python-pandas
+    * Titanic data set
+    * Natural language understanding
+2. [Credit Risk Workshop](https://ibm.github.io/credit-risk-workshop-cpd/):
     * Data Connection and Virtualization
     * Importing Data
     * Data Virtualization and Data Refinery
-    * Data Governance
-    * ML with Jupyter
-    * ML with AutoAI
-    * Deploying and Testing ML Models
-    * Monitoring Models with OpenScale
+    * Data Governance with Watson Knowledge Catalog - for Users
+    * Data Governance with Watson Knowledge Catalog - for Admins
+    * Machine learning with AutoAI
+    * Machine learning with Jupyter notebooks
+    * Machine learning - deployment, scoringm, and use in an application
+    * Monitoring Models with OpenScale - Auto Setup
+    * Monitoring Models with OpenScale - using APIs with Jupyter notebook
+3. [Health Care Workshop](ibm.github.io/cpd-workshop-health-care/):
+    * Data Connection and Virtualization
+    * Importing Data
+    * Data Virtualization and Data Refinery
+    * Data Governance with Watson Knowledge Catalog - for Admins
+    * Machine learning with AutoAI
+    * Monitoring Models with OpenScale - Auto Setup
+4. [Telco Workshop](https://ibm.github.io/cloudpakfordata-telco-churn-workshop/):
+    * Data Connection and Virtualization
+    * Git Integration
+    * Importing Data
+    * ETL with Datastage
+    * Data Virtualization and Data Refinery
+    * Data Governance with Watson Knowledge Catalog - for Users
+    * Data Governance with Watson Knowledge Catalog - for Admins
+    * Machine learning with AutoAI
+    * Machine learning with Jupyter notebooks
+    * Machine learning - deployment, scoringm, and use in an application
+    * Monitoring Models with OpenScale - Auto Setup
+    * Monitoring Models with OpenScale - using APIs with Jupyter notebook
 
 ## Cloud Native
 
