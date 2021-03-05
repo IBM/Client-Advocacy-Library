@@ -1,0 +1,33 @@
+{
+    "ContentGroups" : [
+        {
+            "Cloud Native" : [
+                {
+                    "Application Modernization 1" : [
+                        "labs/containers101.json", "labs/kube101.json"
+                    ],
+                    "version": "0.1.0",
+                    "last_updated": "2021-03-01"
+                },
+                {
+                    "Application Modernization 2" : [
+                        "labs/containers101.json", 
+                        "labs/kube101.json"
+                    ]
+                },
+                {
+                    "Kubernetes Persistent Storage 1" : [
+                        "labs/container_storage.json", 
+                        "labs/object_storage.json"
+                    ]
+                },
+                {
+                    "Unassigned" : [
+                        "labs/new-lab.json"
+                    ]
+                }
+            ],
+            "Unassigned" : []
+        }
+    ]
+}

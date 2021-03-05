@@ -1,0 +1,6 @@
+{
+    "title": "Istio using mTLS",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/istio101",
+    "subdir": "docs/mtls"
+}

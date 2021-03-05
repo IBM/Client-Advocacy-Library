@@ -1,0 +1,6 @@
+{
+    "title": "Cloud Object Storage",
+    "duration": "90 minutes",
+    "repo" : "https://github.com/IBM/kubernetes-storage",
+    "subdir": "docs/lab5/cos"
+}

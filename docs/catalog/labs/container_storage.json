@@ -1,0 +1,6 @@
+{
+    "title": "Container Storage",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/docker101",
+    "subdir": "docs/lab3"
+}
