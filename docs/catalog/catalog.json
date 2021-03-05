@@ -1,29 +1,55 @@
 {
     "ContentGroups" : [
         {
+            "Data and AI" : [
+                {
+                    "Python and Analytics" : [
+                        "py-analytics-python3.json", 
+                        "py-analytics-dataframes.json", 
+                        "py-analytics-panda.json", 
+                        "py-analytics-titanic.json", 
+                        "py-analytics-nlu.json"
+                    ]
+                },
+                {
+                    "Credit Risk Workshop" : [
+                        "credit-risk-virtualization.json", 
+                        "credit-risk-import.json", 
+                        "credit-risk-refinery.json", 
+                        "credit-risk-governance-users.json", 
+                        "credit-risk-governance-admins.json",
+                        "credit-risk-autoai.json", 
+                        "credit-risk-jupyter.json", 
+                        "credit-risk-ml-in-app.json", 
+                        "credit-risk-openscale-auto-setup.json", 
+                        "credit-risk-openscale-apis.json"
+                    ]
+                }
+            ],
             "Cloud Native" : [
                 {
                     "Application Modernization 1" : [
-                        "labs/containers101.json", "labs/kube101.json"
+                        "containers101.json", 
+                        "kube101.json"
                     ],
                     "version": "0.1.0",
                     "last_updated": "2021-03-01"
                 },
                 {
                     "Application Modernization 2" : [
-                        "labs/containers101.json", 
-                        "labs/kube101.json"
+                        "containers101.json", 
+                        "kube101.json"
                     ]
                 },
                 {
                     "Kubernetes Persistent Storage 1" : [
-                        "labs/container_storage.json", 
-                        "labs/object_storage.json"
+                        "container_storage.json", 
+                        "object_storage.json"
                     ]
                 },
                 {
                     "Unassigned" : [
-                        "labs/new-lab.json"
+                        "new-lab.json"
                     ]
                 }
             ],
