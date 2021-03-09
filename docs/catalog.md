@@ -62,7 +62,7 @@ aka **Data & AI**
 (last updated: 2021-03-01)
 
 1. [Using CodeReady Workspaces and Odo](https://github.com/IBM/codeready-workspaces-workshop)
-2. Config Management for Kubernetes (**coming soon**)
+2. Config Management for Kubernetes (**coming March 2021**)
 3. [OpenShift Security: SecurityContextConstraints (SCC), RBAC and ServiceAccounts (SA)](https://ibm.github.io/openshift-rbac-scc/)
 4. [Cluster Security with Virtual Private Cloud (VPC) Gen2](https://ibm.github.io/kubernetes-networking/vpcgen2/)
 5. API Management, Documentation and Security with APIC
@@ -73,18 +73,17 @@ aka **Data & AI**
 ### (KubeStor1) Kubernetes Persistent Storage 1
 (last updated: 2021-03-01)
 
-[Kubernetes Persistent Storage](https://ibm.github.io/kubernetes-storage)
+[Kubernetes Persistent Storage](https://ibm.github.io/kubernetes-storage) - [(video playlist)](https://www.youtube.com/watch?v=GxT8g3-V3lk&list=PLzpeuWUENMK3ZnmjtvXgQOo1ksiG8I-aI)
 
-1. Container Storage
-2. PersistentVolume, PersistentVolumeClaim and emptyDir, hostPath
+1. [Container Storage](https://ibm.github.io/docker101/lab-3/)
+2. [PersistentVolume, PersistentVolumeClaim and emptyDir, hostPath](https://ibm.github.io/kubernetes-storage/Lab1/) - [(video)](https://www.youtube.com/watch?v=GxT8g3-V3lk)
 3. StateFulSet
-4. File Storage
-5. Block Storage
+4. [File Storage](https://ibm.github.io/kubernetes-storage/Lab2/)
+5. [Block Storage](https://ibm.github.io/kubernetes-storage/Lab3/) - [(video)](https://www.youtube.com/watch?v=rUR0R1G5eq0)
 6. [Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
-7. Using External Storage
+7. [Using External Storage and Operators](https://ibm.github.io/kubernetes-storage/Lab7/) - [(video)](https://www.youtube.com/watch?v=JSYZgzsScL4)
 8. Software Defined Storage (SDS) using Portworx (**tbd**)
-
-### (KubeStor2) Kubernetes Persistent Storage 2
+9. Mount a Remote S3 Object Storage as Local Filesystem using S3FS-Fuse - [(video)](https://www.youtube.com/watch?v=0xS1lBgHDX8) 
 
 ## DevOps
 
@@ -95,38 +94,39 @@ aka **Data & AI**
 2. [Source-to-Image (S2I) Build](https://ibm.github.io/s2i-open-liberty-workshop/)
 3. [Pipeline Build using Jenkins](https://remkohdev.github.io/openshift-builds/pipeline-build/lab-01/)
 4. [Tekton 101](https://ibm.github.io/tekton-tutorial-openshift/)
-5. Creating a Multitenant Cluster with IAM and Ansible 101 (**coming soon**)
+5. Creating a Multitenant Cluster with IAM and Ansible 101 (**coming March 2021**)
 6. [Using CodeReady Workspaces and Odo](https://github.com/IBM/codeready-workspaces-workshop)
 7. [Operators of Go type using Operator SDK](https://ibm.github.io/kubernetes-operators/lab2/)
 8. [Operators from Helm Charts using Operator SDK](https://ibm.github.io/kubernetes-operators/lab3/)
-9. Operator Lifecycle Management (OLM) (**coming soon**)
 
 ## Secure
 
 ### (KubeSec1) Kubernetes Security 1
-(last updated: 2021-03-01)
+(last updated: 2021-03-09)
 
 1. [Static Application Security Testing (SAST) with SonarQube Vulnerability Scanning](https://ibm.github.io/sonarqube/)
-2. [Kubernetes Networking 101](https://ibm.github.io/kubernetes-networking/services/) (master (roks), v2.0.0 (2021-01-20)(iks))
-3. [OpenShift Security: SecurityContextConstraints (SCC), RBAC and ServiceAccounts (SA)](https://ibm.github.io/openshift-rbac-scc/)
-4. [Kubernetes Logging with LogDNA](https://ibm.github.io/kubernetes-logging-and-monitoring/logdna/lab-0/)
-5. Kubernetes Monitoring with Sysdig (**coming soon**)
-6. API Security and Lifecycle Management with API Connect
+1. Presentation: Container Security (link to be added)
+1. [OpenShift Security: SecurityContextConstraints (SCC), RBAC and ServiceAccounts (SA)](https://ibm.github.io/openshift-rbac-scc/)
+1. [Kubernetes Logging with LogDNA](https://ibm.github.io/kubernetes-logging-and-monitoring/logdna/lab-0/)
+1. API Security and Lifecycle Management with API Connect
 
-### (KubeSec2) Kubernetes Security 2
+### (KubeNet1) Kubernetes Networking 1
 (last updated: 2021-03-01)
 
-1. [Cluster Security with Virtual Private Cloud (VPC) Gen2](https://ibm.github.io/kubernetes-networking/vpcgen2/) (master (roks), v2.0.0 (iks) (2021-01-20))
-2. Securing Routes on OpenShift (**coming soon**)
-3. Secure Config Management with Vault (IBM Secrets Manager) (**coming soon**)
-4. Container Runtime Security Monitoring with Sysdig Falco (**tbd**)
+Kubernetes Networking - [(video playlist)](https://www.youtube.com/watch?v=yRVWFMLZnL0&list=PLzpeuWUENMK0gALi-vr-lrDRymbZ7KTPf)
+
+1. [Kubernetes Networking 101](https://ibm.github.io/kubernetes-networking/services/) - [(video)](https://www.youtube.com/watch?v=yRVWFMLZnL0)
+1. Securing Routes on OpenShift (**coming March 2021**)
+1. [Cluster Security with Virtual Private Cloud (VPC) Gen2](https://ibm.github.io/kubernetes-networking/vpcgen2/) - [(video)](https://www.youtube.com/watch?v=oqSCAyy6DrU)
+1. Secure Config Management with Vault (IBM Secrets Manager) (**coming March 2021**)
+1. Container Runtime Security Monitoring with Sysdig Falco (**tbd**)
 
 ### (CP4Sec1) Cloud Pak for Security 1
 (last updated: 2021-03-01)
 
-1. Get Started with Cloud Pak for Security (CP4S) (**tbd**)
-2. STIX Shifter 101, Create a Connector (**coming soon**)
-3. QRadar 101 (**tbd**)
+1. Get Started with Cloud Pak for Security (CP4S) (**2021 Q2**)
+2. STIX Shifter 101, Create a Connector (**2021 Q2**)
+3. QRadar 101 (**2021 Q2**)
 
 ## Automate
 
