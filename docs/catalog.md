@@ -23,7 +23,7 @@ aka **Data & AI**
     * Machine learning - deployment, scoringm, and use in an application
     * Monitoring Models with OpenScale - Auto Setup
     * Monitoring Models with OpenScale - using APIs with Jupyter notebook
-3. [Health Care Workshop](ibm.github.io/cpd-workshop-health-care/):
+3. [Health Care Workshop](https://ibm.github.io/cpd-workshop-health-care/):
     * Data Connection and Virtualization
     * Importing Data
     * Data Virtualization and Data Refinery
