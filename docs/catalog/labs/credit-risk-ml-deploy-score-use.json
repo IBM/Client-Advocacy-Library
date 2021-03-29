@@ -1,0 +1,6 @@
+{
+    "title": "Machine Learning - Deploy, Score, and Use in Apps",
+    "duration": "30 minutes",
+    "repo" : "https://github.com/IBM/credit-risk-workshop-cpd",
+    "subdir": "workshop/machine-learning-deployment-scoring"
+}
