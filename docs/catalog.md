@@ -47,7 +47,7 @@ aka **Data & AI**
 ## Cloud Native
 
 ### (AppMod1) Application Modernization 1
-(last updated: 2021-03-01)
+(last updated: 2021-03-30)
 
 1. [Containers 101](https://ibm.github.io/docker101/)
 2. [Kubernetes 101](https://ibm.github.io/kube101/)
@@ -55,20 +55,21 @@ aka **Data & AI**
 4. [Istio 101](https://ibm.github.io/istio101/)
 5. [Storage 101](https://ibm.github.io/kubernetes-storage/Lab1/)
 6. [Kubernetes Networking 101](https://ibm.github.io/kubernetes-networking/services/)
-7. [Logging and Monitoring 101](https://ibm.github.io/kubernetes-logging-and-monitoring/)
+7. [Kubernetes Logging 101 using LogDNA](https://ibm.github.io/kubernetes-logging-and-monitoring/logdna/lab-0/)
 8. [Jenkins 101](https://ibm.github.io/jenkins101/)
 
 ### (AppMod2) Application Modernization 2
 (last updated: 2021-03-01)
 
 1. [Using CodeReady Workspaces and Odo](https://github.com/IBM/codeready-workspaces-workshop)
-2. Config Management for Kubernetes (**coming March 2021**)
-3. [OpenShift Security: SecurityContextConstraints (SCC), RBAC and ServiceAccounts (SA)](https://ibm.github.io/openshift-rbac-scc/)
-4. [Cluster Security with Virtual Private Cloud (VPC) Gen2](https://ibm.github.io/kubernetes-networking/vpcgen2/)
-5. API Management, Documentation and Security with APIC
-6. Message Streams with Apache Kafka
-7. [Operators from Helm Charts using Operator SDK](https://ibm.github.io/kubernetes-operators/lab3/)
-8. [Kubernetes Storage 201: Cloud Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
+1. Config Management for Kubernetes (**coming March 2021**)
+1. [OpenShift Security: SecurityContextConstraints (SCC), RBAC and ServiceAccounts (SA)](https://ibm.github.io/openshift-rbac-scc/)
+1. [Cluster Security with Virtual Private Cloud (VPC) Gen2](https://ibm.github.io/kubernetes-networking/vpcgen2/)
+1. API Management, Documentation and Security with APIC
+1. Message Streams with Apache Kafka
+1. [Operators from Helm Charts using Operator SDK](https://ibm.github.io/kubernetes-operators/lab3/)
+1. [Kubernetes Storage 201: Cloud Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
+1. [Kubernetes Monitoring 101 using Sysdig Monitor](https://ibm.github.io/kubernetes-logging-and-monitoring/sysdig/lab-0/)
 
 ### (KubeStor1) Kubernetes Persistent Storage 1
 (last updated: 2021-03-01)
@@ -76,14 +77,14 @@ aka **Data & AI**
 [Kubernetes Persistent Storage](https://ibm.github.io/kubernetes-storage) - [(video playlist)](https://www.youtube.com/watch?v=GxT8g3-V3lk&list=PLzpeuWUENMK3ZnmjtvXgQOo1ksiG8I-aI)
 
 1. [Container Storage](https://ibm.github.io/docker101/lab-3/)
-2. [PersistentVolume, PersistentVolumeClaim and emptyDir, hostPath](https://ibm.github.io/kubernetes-storage/Lab1/) - [(video)](https://www.youtube.com/watch?v=GxT8g3-V3lk)
-3. StateFulSet
-4. [File Storage](https://ibm.github.io/kubernetes-storage/Lab2/)
-5. [Block Storage](https://ibm.github.io/kubernetes-storage/Lab3/) - [(video)](https://www.youtube.com/watch?v=rUR0R1G5eq0)
-6. [Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
-7. [Using External Storage and Operators](https://ibm.github.io/kubernetes-storage/Lab7/) - [(video)](https://www.youtube.com/watch?v=JSYZgzsScL4)
-8. Software Defined Storage (SDS) using Portworx (**tbd**)
-9. Mount a Remote S3 Object Storage as Local Filesystem using S3FS-Fuse - [(video)](https://www.youtube.com/watch?v=0xS1lBgHDX8) 
+1. [PersistentVolume, PersistentVolumeClaim and emptyDir, hostPath](https://ibm.github.io/kubernetes-storage/Lab1/) - [(video)](https://www.youtube.com/watch?v=GxT8g3-V3lk)
+1. StateFulSet
+1. [File Storage](https://ibm.github.io/kubernetes-storage/Lab2/)
+1. [Block Storage](https://ibm.github.io/kubernetes-storage/Lab3/) - [(video)](https://www.youtube.com/watch?v=rUR0R1G5eq0)
+1. [Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
+1. [Using External Storage and Operators](https://ibm.github.io/kubernetes-storage/Lab7/) - [(video)](https://www.youtube.com/watch?v=JSYZgzsScL4)
+1. Software Defined Storage (SDS) using Portworx (**tbd**)
+1. Mount a Remote S3 Object Storage as Local Filesystem using S3FS-Fuse - [(video)](https://www.youtube.com/watch?v=0xS1lBgHDX8)
 
 ## DevOps
 
@@ -121,12 +122,11 @@ Kubernetes Networking - [(video playlist)](https://www.youtube.com/watch?v=yRVWF
 1. Secure Config Management with Vault (IBM Secrets Manager) (**coming March 2021**)
 1. Container Runtime Security Monitoring with Sysdig Falco (**tbd**)
 
-### (CP4Sec1) Cloud Pak for Security 1
-(last updated: 2021-03-01)
+### (KubeLogMon1) Kubernetes Logging and Monitoring 1
+(last updated: 2021-03-30)
 
-1. Get Started with Cloud Pak for Security (CP4S) (**2021 Q2**)
-2. STIX Shifter 101, Create a Connector (**2021 Q2**)
-3. QRadar 101 (**2021 Q2**)
+1. [Kubernetes Logging 101 using LogDNA](https://ibm.github.io/kubernetes-logging-and-monitoring/logdna/lab-0/),
+1. [Kubernetes Monitoring 101 with Sysdig Monitor](https://ibm.github.io/kubernetes-logging-and-monitoring/sysdig/lab-0/),
 
 ## Automate
 
@@ -137,10 +137,8 @@ Kubernetes Networking - [(video playlist)](https://www.youtube.com/watch?v=yRVWF
 3. Traces with CP4I
 4. Message Streams using Apache Kafka
 
-## Migrate
-
-**Coming soon**
+## Migration
 
 ## Platform Z
 
-<PLATFORM_Z_LABS>
+## Quantum Computing
