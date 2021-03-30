@@ -1,6 +1,6 @@
 {
     "title": "Data Connection and Virtualization",
     "duration": "30 minutes",
-    "repo" : " https://github.com/IBM/cpd-workshop-health-care",
+    "repo" : "https://github.com/IBM/cpd-workshop-health-care",
     "subdir": "workshop/data-visualization-and-refinery"
 }

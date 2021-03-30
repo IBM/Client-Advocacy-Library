@@ -24,6 +24,11 @@
                         "credit-risk-openscale-auto-setup.json", 
                         "credit-risk-openscale-apis.json"
                     ]
+                },
+                {
+                    "New Learning Path" : [
+                        "newlab1.json"
+                    ]
                 }
             ],
             "Cloud Native" : [

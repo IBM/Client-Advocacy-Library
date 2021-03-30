@@ -1,0 +1,6 @@
+{
+    "title": "Machine Learning - Deployment, Scoring, and Use in Apps",
+    "duration": "15 minutes",
+    "repo" : "https://github.com/ibm/cloudpakfordata-telco-churn-workshop/",
+    "subdir": "workshop/machine-learning-deployment-scoring"
+}

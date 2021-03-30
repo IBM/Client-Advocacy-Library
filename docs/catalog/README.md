@@ -1,5 +1,10 @@
 # Catalog Automation
 
+create-catalog.go --includeCG "Data and AI","Cloud Native" --name catalog-rbs 
+
+catalog-rbs.md
+
+
 ## Directory Structure
 
 ```text

@@ -1,0 +1,6 @@
+{
+    "title": "Machine learning with AutoAI",
+    "duration": "15 minutes",
+    "repo" : "https://github.com/ibm/cloudpakfordata-telco-churn-workshop/",
+    "subdir": "workshop/machine-learning-autoai"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "Monitoring Models with OpenScale - using APIs with Jupyter Notebook",
+    "duration": "15 minutes",
+    "repo" : "https://github.com/ibm/cloudpakfordata-telco-churn-workshop/",
+    "subdir": "workshop/openscale-manual-config"
+}

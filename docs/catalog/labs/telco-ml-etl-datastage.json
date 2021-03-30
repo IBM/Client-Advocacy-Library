@@ -1,0 +1,6 @@
+{
+    "title": "ETL with Datastage",
+    "duration": "15 minutes",
+    "repo" : "https://github.com/ibm/cloudpakfordata-telco-churn-workshop/",
+    "subdir": "workshop/etl-with-datastage"
+}

@@ -1,6 +1,6 @@
 {
     "title": "Data Virtualization and Data Refinery",
     "duration": "15 minutes",
-    "repo" : "https://github.com/IBM/cpd-workshop-health-care",
+    "repo" : "https://github.com/ibm/cloudpakfordata-telco-churn-workshop/",
     "subdir": "workshop/data-visualization-and-refinery"
 }
