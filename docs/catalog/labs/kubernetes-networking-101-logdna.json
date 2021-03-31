@@ -1,0 +1,6 @@
+{
+    "title": "Kubernetes Logging 101 using logdna",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/kubernetes-logging-and-monitoring",
+    "subdir": "docs/logdna"
+}

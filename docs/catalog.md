@@ -40,7 +40,7 @@ aka **Data & AI**
     * Data Governance with Watson Knowledge Catalog - for Admins
     * Machine learning with AutoAI
     * Machine learning with Jupyter notebooks
-    * Machine learning - deployment, scoringm, and use in an application
+    * Machine learning - deployment, scoring, and use in an application
     * Monitoring Models with OpenScale - Auto Setup
     * Monitoring Models with OpenScale - using APIs with Jupyter notebook
 
@@ -68,7 +68,7 @@ aka **Data & AI**
 1. API Management, Documentation and Security with APIC
 1. Message Streams with Apache Kafka
 1. [Operators from Helm Charts using Operator SDK](https://ibm.github.io/kubernetes-operators/lab3/)
-1. [Kubernetes Storage 201: Cloud Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
+1. [Cloud Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
 1. [Kubernetes Monitoring 101 using Sysdig Monitor](https://ibm.github.io/kubernetes-logging-and-monitoring/sysdig/lab-0/)
 
 ### (KubeStor1) Kubernetes Persistent Storage 1
@@ -81,7 +81,7 @@ aka **Data & AI**
 1. StateFulSet
 1. [File Storage](https://ibm.github.io/kubernetes-storage/Lab2/)
 1. [Block Storage](https://ibm.github.io/kubernetes-storage/Lab3/) - [(video)](https://www.youtube.com/watch?v=rUR0R1G5eq0)
-1. [Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
+1. [Cloud Object Storage using S3FS-Fuse](https://ibm.github.io/kubernetes-storage/Lab5/)
 1. [Using External Storage and Operators](https://ibm.github.io/kubernetes-storage/Lab7/) - [(video)](https://www.youtube.com/watch?v=JSYZgzsScL4)
 1. Software Defined Storage (SDS) using Portworx (**tbd**)
 1. Mount a Remote S3 Object Storage as Local Filesystem using S3FS-Fuse - [(video)](https://www.youtube.com/watch?v=0xS1lBgHDX8)

@@ -1,0 +1,6 @@
+{
+    "title": "Create an Operator of Type Go using the Operator SDK",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/kubernetes-operators",
+    "subdir": "docs/lab2.md"
+}

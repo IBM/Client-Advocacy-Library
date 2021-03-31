@@ -1,0 +1,6 @@
+{
+    "title": "Kubernetes Monitoring 101 using Sysdig Monitor",
+    "duration": "90 minutes",
+    "repo" : "https://github.com/ibm/kubernetes-logging-and-monitoring/",
+    "subdir": docs/sysdig"
+}

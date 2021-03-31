@@ -1,0 +1,6 @@
+{
+    "title": "Create a Custom Resource (CR)",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/kubernetes-operators",
+    "subdir": "docs/lab1.md"
+}

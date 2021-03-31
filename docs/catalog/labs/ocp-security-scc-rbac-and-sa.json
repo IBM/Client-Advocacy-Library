@@ -1,0 +1,6 @@
+{
+    "title": "OpenShift Security: SecurityContextConstraints (SCC), RBAC and ServiceAccounts (SA)",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/openshift-rbac-scc/",
+    "subdir": "docs/lab-1"
+}

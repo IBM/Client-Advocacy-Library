@@ -1,0 +1,6 @@
+{
+    "title": "Kubernetes Logging 101 using Sysdig",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/kubernetes-networking",
+    "subdir": "docs/networking101"
+}

@@ -26,6 +26,32 @@
                     ]
                 },
                 {
+                    "Health Care Workshop" : [
+                        "healthcare-ml-connect-and-visualize.json", 
+                        "healthcare-ml-import-data.json",
+                        "healthcare-ml-visualize-and-refine.json",
+                        "healthcare-ml-governance-wkc-admin.json",
+                        "healthcare-ml-using-autoai.json",
+                        "healthcare-ml-openscale-setup.json"
+                    ]
+                },
+                {
+                    "Telco Workshop" : [
+                        "telco-ml-connect-and-visualize.json",
+                        "telco-ml-git-integration.json",
+                        "telco-ml-import-data.json",
+                        "telco-ml-etl-datastage.json",
+                        "telco-ml-visualize-and-refine.json",
+                        "telco-ml-governance-wkc-user.json",
+                        "telco-ml-governance-wkc-admin.json",
+                        "telco-ml-using-autoai.json",
+                        "telco-ml-with-jupyter.json",
+                        "telco-ml-deploy-score-use.json",
+                        "telco-ml-openscale-fastpath-auto.json",
+                        "telco-ml-openscale-notebook-apis.json"
+                    ]
+                },
+                {
                     "New Learning Path" : [
                         "newlab1.json"
                     ]
@@ -35,21 +61,33 @@
                 {
                     "Application Modernization 1" : [
                         "containers101.json", 
-                        "kube101.json"
+                        "kube101.json",
+                        "helm101.json",
+                        "istio101.json",
+                        "storage.json",
+                        "kubernetes-networking-101.json",
+                        "logging-101-using-logdna.json",
+                        "jenkins101-ephemeral.json"
                     ],
                     "version": "0.1.0",
                     "last_updated": "2021-03-01"
                 },
                 {
                     "Application Modernization 2" : [
-                        "containers101.json", 
-                        "kube101.json"
+                        "crw-and-odo.json", 
+                        "ocp-security-scc-rbac-and-sa.json",
+                        "security-add-vpc-gen2.json",
+                        "apic-manage-document-secure-apis.json",
+                        "kafka-message-streams-101.json",
+                        "operators-operator-sdk-from-helm.json",
+                        "storage-cloud-object-storage-using-s3fsfuse.json",
+                        "monitoring-sysdig-monitor.json"
                     ]
                 },
                 {
                     "Kubernetes Persistent Storage 1" : [
-                        "container_storage.json", 
-                        "object_storage.json"
+                        "storage-container-storage.json", 
+                        "storage-cloud-object-storage-using-s3fsfuse.json"
                     ]
                 },
                 {

@@ -1,0 +1,6 @@
+{
+    "title": "Jenkins 101 using OpenShift Pipeline",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/jenkins101",
+    "subdir": "docs/lab-02"
+}

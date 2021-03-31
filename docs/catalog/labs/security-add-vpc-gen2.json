@@ -1,0 +1,6 @@
+{
+    "title": "Cluster Security with Virtual Private Cloud (VPC) Gen2",
+    "duration": "60 minutes",
+    "repo" : "https://ibm.github.io/kubernetes-networking",
+    "subdir": "docs"
+}
