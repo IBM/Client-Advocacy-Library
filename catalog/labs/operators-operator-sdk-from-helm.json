@@ -1,0 +1,6 @@
+{
+    "title": "Operators from Helm Charts using Operator SDK",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/kubernetes-operators",
+    "subdir": "docs"
+}

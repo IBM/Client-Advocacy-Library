@@ -1,0 +1,6 @@
+{
+    "title": "Jenkins 101 using Ephemeral Jenkins",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/jenkins101",
+    "subdir": "docs/lab-01"
+}

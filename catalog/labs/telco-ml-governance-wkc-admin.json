@@ -1,0 +1,6 @@
+{
+    "title": "Data Governance with Watson Knowledge Catalog - for Admins",
+    "duration": "15 minutes",
+    "repo" : "https://github.com/ibm/cloudpakfordata-telco-churn-workshop/",
+    "subdir": "workshop/watson-knowledge-catalog-admin"
+}

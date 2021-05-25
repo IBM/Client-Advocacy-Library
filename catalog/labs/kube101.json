@@ -1,0 +1,6 @@
+{
+    "title": "Kubernetes 101",
+    "duration": "60 minutes",
+    "repo" : "https://github.com/IBM/kube101",
+    "subdir": "docs"
+}
