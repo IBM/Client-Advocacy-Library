@@ -13,7 +13,7 @@ nav:
   - Welcome:
     - About the workshop: README.md
   - Content Catalog:
-    - Catalog: catalog.md
+    - Catalog: content-catalog.md
   - Contacts:
     - Contributors: references/CONTRIBUTORS.md
 
